@@ -50,7 +50,7 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jhorky91&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jhorky91/github-readme-stats#gh-dark-mode-only)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhorky91&theme=dark&show_icons=true)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhorky91&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhorky91&layout=compact&theme=dark&show_icons=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhorky91&hide_progress=true)](https://github.com/jhorky91/github-readme-stats)
 
