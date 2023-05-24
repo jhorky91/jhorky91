@@ -52,5 +52,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhorky91&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhorky91&layout=compact&hide_progress=true)](https://github.com/jhorky91/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhorky91&layout=Donut Chart layout&hide_progress=true)](https://github.com/jhorky91/github-readme-stats)
 
