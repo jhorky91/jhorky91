@@ -4,11 +4,13 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 <h4 align="left">Social networks</h4>
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jhorky-jhosep-escalante-quispe-7aa642137/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jhorky-jhosep-escalante-quispe-7aa642137/" height="20" width="30" /></a>
 </p>
 
 <h4 align="left">Programming languages</h4>
+
 <p align="left">
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
@@ -19,7 +21,8 @@
 </p>
 
 
-<h4 align="left">Database</h4>
+<h4 align="left">Database Engines</h4>
+
 <p align="left">
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
@@ -33,7 +36,7 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
-<h4 align="left">GitHub stats</h4>
+<h4 align="left">GitHub stats & most used languages</h4>
 
 <div>
   <a href= "https://beacons.ai/jhorky91">
@@ -41,7 +44,7 @@
     <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhorky91&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
- <h4 align="left">Redes Sociales</h4>
+ <h4 align="left">Social Networks</h4>
   
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
