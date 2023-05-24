@@ -49,6 +49,5 @@
    <h4 align="left">Social Networks</h4>
   
 <div>
-  <a href="https://startchart.cc/jhorky91/cody-back.svg" target="_blank"><img src="https://startchart.cc/jhorky91/cody-back.svg" alt="https://www.linkedin.com/in/jhorky-jhosep-escalante-quispe-7aa642137/"></a> 
+  <a href="https://startchart.cc/jhorky91/cody-back.svg"</a> 
 </div>
-[starchart.cc/{username}/{repo}.svg](https://starchart.cc/{username}/{repo}.svg)
