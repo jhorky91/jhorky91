@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Jhorky Escalante</h1> <img src="https://komarev.com/ghpvc/?username=jhorky91&label=Profile%20views&color=0e75b6&style=flat" alt="jhorky91" />
+<h1 align="left">Hi 👋, I'm Jhorky</h1> <img src="https://komarev.com/ghpvc/?username=jhorky91&label=Profile%20views&color=0e75b6&style=flat" alt="jhorky91" />
 <h4 align="left">I am a student of the DaVinci School for graduating as a Systems Analyst, I currently work as a Data Analyst and I also have basic knowledge of programming.</h4>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
