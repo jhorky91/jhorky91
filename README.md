@@ -48,5 +48,5 @@
 </picture>
 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jhorky91&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jhorky91/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jhorky91&show_icons=true&theme=blue-green#gh-dark-mode-only)](https://github.com/jhorky91/github-readme-stats#gh-dark-mode-only)
 
