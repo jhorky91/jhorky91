@@ -51,4 +51,4 @@
 <div>
   <a href="https://startchart.cc/jhorky91/cody-back.svg" target="_blank"><img src="https://startchart.cc/jhorky91/cody-back.svg" alt="https://www.linkedin.com/in/jhorky-jhosep-escalante-quispe-7aa642137/"></a> 
 </div>
-
+[starchart.cc/{username}/{repo}.svg](https://starchart.cc/{username}/{repo}.svg)
