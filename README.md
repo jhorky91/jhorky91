@@ -35,6 +35,6 @@
 
 <h4 align="left">GitHub stats</h4>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhorky91&theme=blue-green&show_icons=true)](https://github.com/jhorky91/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=show_owner&theme=blue-green&show_icons=true)](https://github.com/show_oner/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhorky91&layout=compact&theme=blue-green)](https://github.com/jhorky91/github-readme-stats)
