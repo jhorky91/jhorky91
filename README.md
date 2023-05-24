@@ -48,8 +48,7 @@
   
    <h4 align="left">Social Networks</h4>
   
-<div>  
-  <a href="https://startchart.cc/jhorky91/cody-back.svg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jhorky-jhosep-escalante-quispe-7aa642137/"></a> 
-  
+<div>
+  <a href="https://startchart.cc/jhorky91/cody-back.svg" target="_blank"><img src="https://startchart.cc/jhorky91/cody-back.svg" alt="https://www.linkedin.com/in/jhorky-jhosep-escalante-quispe-7aa642137/"></a> 
 </div>
 
