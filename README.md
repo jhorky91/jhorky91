@@ -47,10 +47,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=jhorky91&show_icons=true" />
 </picture>
 
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jhorky91&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jhorky91/github-readme-stats#gh-dark-mode-only)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhorky91&theme=dracula&Shows_Github_logo_instead_rank_level=true)](https://github.com/jhorky91/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhorky91&theme=dracula&Shows_Github_logo_instead_rank_level=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhorky91&layout=DonutVerticalChartlayout)](https://github.com/jhorky91/github-readme-stats)
 
