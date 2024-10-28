@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Jhorky - Desarrollador Web Full Stack</h1> <img src="https://komarev.com/ghpvc/?username=jhorky91&label=Profile%20views&color=0e75b6&style=flat" alt="jhorky91" />
+<h1 align="left">Hola 👋, Soy Jhorky - Desarrollador Web Full Stack</h1> <img src="https://komarev.com/ghpvc/?username=jhorky91&label=Profile%20views&color=0e75b6&style=flat" alt="jhorky91" />
 <h4 align="left">Apasionado por el desarrollo de Software. Me encanta trabajar en proyectos y aplicaciones Frontend y Backend. Siempre trato de mejorar mis conocimientos y habilidades en distintas tecnologias para resolver problemas. Me mantengo en un proceso constante de aprendizaje y actualización.</h4>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
