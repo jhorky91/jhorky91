@@ -16,14 +16,11 @@
 
 Soy un desarrollador apasionado por crear soluciones de software, tanto en **Frontend** como en **Backend**. Siempre estoy buscando aprender nuevas tecnologías y afrontar desafíos interesantes. 🚀
 
----
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jhorky91&theme=onedark" alt="GitHub Trophies" />
 </p>
 
-
-<iframe src="https://open.spotify.com/embed-podcast/show/2QFj2q7" width="400" height="80" frameborder="0" allow="encrypted-media" /></iframe>
 
 
 # 💻 Stack Tecnológico
