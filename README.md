@@ -10,12 +10,11 @@
   <img src="https://komarev.com/ghpvc/?username=jhorky91&label=Visitas&color=0e75b6&style=flat-square" alt="Contador de visitas" />
 </p>
 
-# 🌟 ¡Hola! Soy Jhorky
-
 <div align="center">
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" alt="Developer GIF" width="400" height="200" />
 </div>
 
+# 🚀 Sobre mí
 Soy un desarrollador apasionado por crear soluciones de software, tanto en **Frontend** como en **Backend**. Siempre estoy buscando aprender nuevas tecnologías y afrontar desafíos interesantes. 🚀
 
 <p align="center">
