@@ -1,8 +1,8 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/jhorky91">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&width=435&lines=Bienvenido a mi perfil!;Desarrollador+FullStack" alt="Typing SVG" />
   </a>
-</p>
+</p> -->
 
 <p align="start">
   <img src="https://komarev.com/ghpvc/?username=jhorky91&label=Visitas&color=0e75b6&style=flat-square" alt="Contador de visitas" />
